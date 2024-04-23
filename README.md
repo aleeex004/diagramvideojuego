@@ -1,0 +1,2 @@
+# diagramvideojuego
+diagrama videojuego
